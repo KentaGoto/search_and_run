@@ -11,3 +11,6 @@ Double-click search_and_run_dirVer.exe.
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
